@@ -35,7 +35,7 @@ li {
   list-style: none;
 }
 
-img {
+.logo {
   height: 100px;
 
   margin-right: 300px;
@@ -93,12 +93,19 @@ margin-bottom: 120px;
   text-decoration: none;
   
 }
+.enlacet{
+  background-color:  rgba(0, 0, 0, 0.109);
+}
 a:hover{
   background-color: rgba(0, 0, 0, 0.109);
 
 }
 
-
+.todas1{
+  width: 280px;
+  height: 250px;
+  margin: 20px;
+}
 footer{
   margin-top: 20px;
   width: 100%;
