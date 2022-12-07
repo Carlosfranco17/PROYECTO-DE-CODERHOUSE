@@ -18,11 +18,14 @@ nav.abajo{
    box-shadow: black 0 0 8px 0;
    
 }
+body{
+  background-color: aliceblue;
+}
 
 
 
 nav{
-  width:100vh ;
+  width: ;
   height: 15vh;
   display: flex;
   position: fixed;
@@ -92,11 +95,11 @@ h2{
 }
 
 .contenido2{
-  height: 50vh;
-  display: flex;
-  background-color: aliceblue;
+  height: 100vh;
 }
-
+.caja1{
+  
+}
 .caja{
   width: 100%;
   margin: 10px;
@@ -159,27 +162,6 @@ footer{
   height:45px ;
 }
 
-
-
-.caja7{
-  width: 100vh;
-
-}
-
-.iot{
-  margin-top: 10px;
-  width: 720px;
-  height: 282px;
-}
-.iott1{
-  margin-top: 100px;
-}
-
-.ioth{
-  font-family: Georgia, 'Times New Roman', Times, serif, 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  color: #3f71b3;
-
-}
 
 
 
