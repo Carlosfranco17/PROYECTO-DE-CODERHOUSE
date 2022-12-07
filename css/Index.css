@@ -92,7 +92,9 @@ h2{
 }
 
 .contenido2{
-  height: 100vh;
+  height: 50vh;
+  display: flex;
+  background-color: aliceblue;
 }
 .caja1{
   
@@ -159,6 +161,32 @@ footer{
   height:45px ;
 }
 
+
+
+.caja7{
+  width: 100vh;
+
+}
+.caja8{
+
+
+
+
+}
+.iot{
+  margin-top: 10px;
+  width: 720px;
+  height: 282px;
+}
+.iott1{
+  margin-top: 100px;
+}
+
+.ioth{
+  font-family: Georgia, 'Times New Roman', Times, serif, 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: #3f71b3;
+
+}
 
 
 
