@@ -22,7 +22,7 @@ nav.abajo{
 
 
 nav{
-  width: ;
+  width:100vh ;
   height: 15vh;
   display: flex;
   position: fixed;
