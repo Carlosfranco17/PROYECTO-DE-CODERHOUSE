@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <link rel="stylesheet" href="../css/productos.css" />
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <div>
+          <img src="../img/logo-removebg-preview.png" alt="" class="logo" />
+        </div>
+        <ul class="flex">
+          <li><a href="../index.html" class="menu espacio">inicio</a></li>
+          <li><a href="productos.html" class="menu">productos</a></li>
+          <li><a href="servicio.html" class="menu">servicio</a></li>
+          <li><a href="planes.html" class="menu">planes</a></li>
+          <li><a href="contacto.html" class="menu">contacto</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      
+    </main>
+    <footer></footer>
+
+    <script type="text/javascript">
+      window.addEventListener("scroll", function () {
+        var header = document.querySelector("nav");
+        header.classList.toggle("abajo", window.scrollY > 0);
+      });
+    </script>
+  </body>
+</html>
