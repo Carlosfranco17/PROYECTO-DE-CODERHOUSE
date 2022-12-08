@@ -116,12 +116,21 @@ p{
   background-color: #A5F0FA;
   height: 100VH;
 }
+
 footer{
   width: 100%;
   height: 100px;
   background-color: #112344;
+  
+  text-align: center;
+ 
+  
+  
 }
-
+.text-footer{
+  padding: 40px 0 0 0;
+  color: white;
+}
 .carro{
   display:flex;
 }

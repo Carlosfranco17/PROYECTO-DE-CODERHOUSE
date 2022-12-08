@@ -111,13 +111,23 @@ a:hover{
   height: 250px;
   margin: 20px;
 }
+
 footer{
-  margin-top: 20px;
   width: 100%;
   height: 100px;
-  background-color: #112344; 
+  background-color: #112344;
+  
+  text-align: center;
+ 
+  
   
 }
+.text-footer{
+  padding: 40px 0 0 0;
+  color: white;
+}
+  
+
 .enlaces2{
   margin-top: 100px;
   text-align: center;
