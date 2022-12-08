@@ -95,7 +95,7 @@ h2{
 }
 
 .contenido2{
-  height: 100vh;
+  height: 50vh;
 }
 
 .caja{
@@ -169,7 +169,17 @@ footer{
   height:45px ;
 }
 
+.contenido2{
+ 
+  display: flex;
 
+}
 
-
-
+.iot{
+  width: 720px;
+  height: 282px;
+  margin: 20px -10px;
+  }
+  .iott1{
+    margin-top: 100px;
+  }
