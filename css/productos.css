@@ -106,6 +106,11 @@ a:hover{
   height: 250px;
   margin: 20px;
 }
+.todas2{
+  width: 280px;
+  height: 250px;
+  margin: 20px;
+}
 footer{
   margin-top: 20px;
   width: 100%;
@@ -113,3 +118,9 @@ footer{
   background-color: #112344; 
   
 }
+.enlaces2{
+  margin-top: 100px;
+  text-align: center;
+}
+
+
